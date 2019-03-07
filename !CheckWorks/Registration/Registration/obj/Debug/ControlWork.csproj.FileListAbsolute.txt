@@ -1,0 +1,7 @@
+C:\Users\кривопалова\source\repos\Registration\Registration\bin\Debug\Registration.exe.config
+C:\Users\кривопалова\source\repos\Registration\Registration\bin\Debug\Registration.exe
+C:\Users\кривопалова\source\repos\Registration\Registration\bin\Debug\Registration.pdb
+C:\Users\кривопалова\source\repos\Registration\Registration\obj\Debug\ControlWork.csprojAssemblyReference.cache
+C:\Users\кривопалова\source\repos\Registration\Registration\obj\Debug\ControlWork.csproj.CoreCompileInputs.cache
+C:\Users\кривопалова\source\repos\Registration\Registration\obj\Debug\Registration.exe
+C:\Users\кривопалова\source\repos\Registration\Registration\obj\Debug\Registration.pdb
