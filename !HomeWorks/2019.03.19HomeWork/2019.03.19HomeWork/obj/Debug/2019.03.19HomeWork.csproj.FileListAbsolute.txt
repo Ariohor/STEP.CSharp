@@ -1,0 +1,16 @@
+C:\Users\кривопалова\source\repos\2019.03.19HomeWork\2019.03.19HomeWork\bin\Debug\2019.03.19HomeWork.exe.config
+C:\Users\кривопалова\source\repos\2019.03.19HomeWork\2019.03.19HomeWork\bin\Debug\2019.03.19HomeWork.exe
+C:\Users\кривопалова\source\repos\2019.03.19HomeWork\2019.03.19HomeWork\bin\Debug\2019.03.19HomeWork.pdb
+C:\Users\кривопалова\source\repos\2019.03.19HomeWork\2019.03.19HomeWork\obj\Debug\2019.03.19HomeWork.csprojAssemblyReference.cache
+C:\Users\кривопалова\source\repos\2019.03.19HomeWork\2019.03.19HomeWork\obj\Debug\2019.03.19HomeWork.csproj.CoreCompileInputs.cache
+C:\Users\кривопалова\source\repos\2019.03.19HomeWork\2019.03.19HomeWork\obj\Debug\2019.03.19HomeWork.exe
+C:\Users\кривопалова\source\repos\2019.03.19HomeWork\2019.03.19HomeWork\obj\Debug\2019.03.19HomeWork.pdb
+C:\Users\PBSOFT-2\Documents\Visual Studio 2015\Projects\2019.03.19HomeWork\2019.03.19HomeWork\bin\Debug\2019.03.19HomeWork.exe.config
+C:\Users\PBSOFT-2\Documents\Visual Studio 2015\Projects\2019.03.19HomeWork\2019.03.19HomeWork\obj\Debug\2019.03.19HomeWork.exe
+C:\Users\PBSOFT-2\Documents\Visual Studio 2015\Projects\2019.03.19HomeWork\2019.03.19HomeWork\obj\Debug\2019.03.19HomeWork.pdb
+C:\Users\PBSOFT-2\Documents\Visual Studio 2015\Projects\2019.03.19HomeWork\2019.03.19HomeWork\bin\Debug\2019.03.19HomeWork.exe
+C:\Users\PBSOFT-2\Documents\Visual Studio 2015\Projects\2019.03.19HomeWork\2019.03.19HomeWork\bin\Debug\2019.03.19HomeWork.pdb
+C:\Users\PBSOFT-2\Documents\Visual Studio 2015\Projects\2019.03.19HomeWork\2019.03.19HomeWork\obj\Debug\2019.03.19HomeWork.csprojResolveAssemblyReference.cache
+C:\Users\PBSOFT-2\Documents\Visual Studio 2015\Projects\2019.03.19HomeWork\2019.03.19HomeWork\bin\Debug\Newtonsoft.Json.dll
+C:\Users\PBSOFT-2\Documents\Visual Studio 2015\Projects\2019.03.19HomeWork\2019.03.19HomeWork\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\PBSOFT-2\Documents\Visual Studio 2015\Projects\2019.03.19HomeWork\2019.03.19HomeWork\bin\Debug\Newtonsoft.Json.xml
